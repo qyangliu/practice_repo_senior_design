@@ -6,4 +6,6 @@ print(x)
 
 
 
+a = math.pi
+print(a)
 
