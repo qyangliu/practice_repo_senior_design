@@ -1,6 +1,6 @@
 import math
 
-x = math.pi * 2
+x = math.pi
 print(pi)
 
 
