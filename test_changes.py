@@ -1,8 +1,8 @@
 import math
 import numpy as np
 
-x = math.pi
-print(x)
+z = math.pi
+print(z)
 
 
 
