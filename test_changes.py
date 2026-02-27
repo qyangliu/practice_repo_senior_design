@@ -2,10 +2,12 @@ import math
 import numpy as np
 
 x = math.pi
-print(1)
+y = math.pi
+print(x)
 
 
 
 a = math.pi
 print(a)
 
+print(y)
